@@ -25,6 +25,12 @@ Hi, I'm Nguyen Tat Kien, a Computer Science student from Ho Chi Minh City Univer
 |------------|
 |![Apache Spark Icon](https://spark.apache.org/images/spark-logo-trademark.png)|
 
+## Cloud Services
+
+|AWS|
+|-------------------|
+|![AWS](https://github.com/weibeld/aws-icons-svg/blob/main/misc/aws/AWS_80.svg)
+
 <!---
 tatkien/tatkien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
