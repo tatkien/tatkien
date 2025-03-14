@@ -17,7 +17,7 @@ Hi, I'm Nguyen Tat Kien, a Computer Science student from Ho Chi Minh City Univer
 
 |Python|Apache Spark|
 |------|------------|
-|![Python Logo](https://raw.githubusercontent.com/github/explore/main/topics/python/python.png)|![Apache Spark Icon](https://raw.githubusercontent.com/github/explore/main/topics/apache-spark-2.0/apache-spark-2.0.png)
+|![Python Logo](https://raw.githubusercontent.com/github/explore/main/topics/python/python.png)|![Apache Spark Icon](https://raw.githubusercontent.com/github/explore/main/topics/apache-spark-2.0/apache-spark-2.0.png)|![Scikit-learn Icon](https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png)
 
 ## Big Data
 
