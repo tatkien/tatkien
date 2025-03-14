@@ -17,13 +17,13 @@ Hi, I'm Nguyen Tat Kien, a Computer Science student from Ho Chi Minh City Univer
 
 |Python|Apache Spark|Scikit-Learn|Tensorflow|
 |------|------------|------------|----------|
-|![Python Logo](https://raw.githubusercontent.com/github/explore/main/topics/python/python.png)|![Apache Spark Icon](https://raw.githubusercontent.com/github/explore/main/topics/apache-spark-2.0/apache-spark-2.0.png)|![Scikit-learn Icon](https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png)|![Tensorflow](https://camo.githubusercontent.com/fe5ced87b3ae4c3c7c36fbeff02c3e0f99edae2dd1dd9d7b58195115788760ad/68747470733a2f2f7777772e74656e736f72666c6f772e6f72672f696d616765732f74665f6c6f676f5f686f72697a6f6e74616c2e706e67)
+|![Python Logo](https://raw.githubusercontent.com/github/explore/main/topics/python/python.png)|![Apache Spark Icon](https://spark.apache.org/images/spark-logo-trademark.png)|![Scikit-learn Icon](https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png)|![Tensorflow](https://camo.githubusercontent.com/fe5ced87b3ae4c3c7c36fbeff02c3e0f99edae2dd1dd9d7b58195115788760ad/68747470733a2f2f7777772e74656e736f72666c6f772e6f72672f696d616765732f74665f6c6f676f5f686f72697a6f6e74616c2e706e67)
 
 ## Big Data
 
 |Apache Spark|
 |------------|
-|![Apache Spark Icon](https://raw.githubusercontent.com/github/explore/main/topics/apache-spark/apache-spark.png)|
+|![Apache Spark Icon](https://spark.apache.org/images/spark-logo-trademark.png)|
 
 <!---
 tatkien/tatkien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
